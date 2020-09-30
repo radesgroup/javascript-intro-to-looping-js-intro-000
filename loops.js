@@ -15,6 +15,6 @@ let countdown = n
   while (countdown > 0) {
     console.log(--countdown);
   }
-console.log("done");
+console.log('done');
 }
 whileLoop(n)
