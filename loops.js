@@ -11,10 +11,13 @@ forLoop()
 
 var n = 4;
 function whileLoop(n){
-let countdown = n
-  while (countdown > 0) {
-    console.log(--countdown);
+
+  while (n > 0) {
+    console.log(--n);
+    n--
   }
-console.log('done');
+alert('done');
 }
 whileLoop(n)
+
+
