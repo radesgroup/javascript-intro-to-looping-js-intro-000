@@ -9,7 +9,7 @@ function forLoop(array){
 }
 forLoop()
 
-var whileLoop = function(){
+function whileLoop(n){
 let n = 4;
   while (n >= 0) {
     console.log(n--);
@@ -18,4 +18,4 @@ let n = 4;
 console.log('done');
 return n;
 }
-whileLoop()
+whileLoop(4)
