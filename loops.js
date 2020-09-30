@@ -9,14 +9,13 @@ function forLoop(array){
 }
 forLoop()
 
-var n = 4;
-function whileLoop(n){
-let t = n;
-  while (t >= 0) {
-    console.log(t--);
+var whileLoop = function(){
+let n = 4;
+  while (n >= 0) {
+    console.log(n--);
 
   }
 console.log('done');
 return n;
 }
-whileLoop(4)
+whileLoop()
