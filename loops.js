@@ -18,4 +18,4 @@ function whileLoop(n){
 
 return "done";
 }
-whileLoop(4)
+whileLoop(6)
