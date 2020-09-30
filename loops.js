@@ -17,4 +17,4 @@ function whileLoop(){
   }
 console.log("done");
 }
-whileLoop(n)
+whileLoop()
