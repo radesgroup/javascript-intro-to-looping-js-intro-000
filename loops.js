@@ -9,7 +9,7 @@ function forLoop(array){
 }
 forLoop()
 
-n = 5;
+const n = 5;
 function whileLoop(n){
   while (n >= 0) {
     console.log(n);
