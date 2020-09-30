@@ -16,6 +16,5 @@ function whileLoop(){
     --n;
   }
 console.log("done");
-return n;
 }
 whileLoop(n)
