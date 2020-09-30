@@ -12,9 +12,9 @@ forLoop()
 var n = 4;
 function whileLoop(n){
 
-  for (n >= 0) {
+  for (n;n >= 0;--n) {
     console.log(n);
-    n--
+    
   }
 alert('done');
 return n;
