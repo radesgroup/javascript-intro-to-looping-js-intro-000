@@ -14,9 +14,9 @@ function whileLoop(n){
 
   for (n;n >= 0;--n) {
     console.log(n);
-    
+
   }
-alert('done');
+console.log('done');
 return n;
 }
 whileLoop(4)
