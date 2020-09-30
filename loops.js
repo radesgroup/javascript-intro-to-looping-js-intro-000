@@ -12,8 +12,8 @@ forLoop()
 var n = 4;
 function whileLoop(n){
 let t = n;
-  while (t > 0) {
-    console.log(--t);
+  while (t >= 0) {
+    console.log(t--);
 
   }
 console.log('done');
