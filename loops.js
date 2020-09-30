@@ -11,7 +11,7 @@ forLoop()
 
 function whileLoop(n){
 
-  while (n > -1) {
+  while (n > 0) {
     console.log(n);
    n--;
   }
