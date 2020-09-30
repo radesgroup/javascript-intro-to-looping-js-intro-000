@@ -7,7 +7,7 @@ function forLoop(array){
   }
   return array;
 }
-forLoop()
+
 
 function whileLoop(n){
 
