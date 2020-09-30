@@ -9,7 +9,6 @@ function forLoop(array){
 }
 forLoop()
 
-const n = 5;
 function whileLoop(n){
   while (n >= 0) {
     console.log(n);
@@ -17,4 +16,4 @@ function whileLoop(n){
   }
 console.log("done");
 }
-whileLoop(n)
+whileLoop(3)
