@@ -17,5 +17,6 @@ function whileLoop(n){
     n--
   }
 alert('done');
+return n;
 }
 whileLoop(n)
