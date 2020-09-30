@@ -18,4 +18,4 @@ let n = 4;
 console.log('done');
 return n;
 }
-whileLoop(4)
+whileLoop()
